@@ -1,4 +1,4 @@
-# Games with Computer Vision
+# POS Tagging for Gujarati English and Hindi
 
 This project is a rule-based Part-Of-Speech (POS) tagger designed for Gujarati, English, and Hindi languages. Users can input text and receive POS-tagged output as shown in the images below. Additionally, the project includes a "Mixed" parameter, which is a Boolean value. When set to True, users can input text that combines sentences from all three languages (Hindi, Gujarati, and English) and still receive accurate POS tags for each word. Please refer to the images below for examples and further details.
 
